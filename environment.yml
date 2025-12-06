@@ -15,6 +15,7 @@ dependencies:
   - scipy
   - vega_datasets
   - ipyvolume
+  - leafmap
 
   - pip:
     - voila==0.5.0
