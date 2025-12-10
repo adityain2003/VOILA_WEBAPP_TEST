@@ -23,6 +23,8 @@ dependencies:
   - maplibre
   - voila
   - voila_topbar
+  - geemap
+  - solara
 
   - pip:
     - voila==0.5.5
